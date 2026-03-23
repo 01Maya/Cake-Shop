@@ -34,3 +34,4 @@ A modern, elegant, and responsive bakery website showcasing **handcrafted cakes 
 ## Screenshot
 
 ![Image](https://github.com/user-attachments/assets/ecb55bb3-00ed-4bfc-bb0c-ad6497ac501f)
+---
